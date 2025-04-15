@@ -1,0 +1,24 @@
+[
+    {
+      "id": "uuid1",
+      "title": "Mantenimiento preventivo de PC",
+      "description": "Limpieza, revisión y optimización de hardware y software.",
+      "code": "SVC001",
+      "price": 50000,
+      "status": true,
+      "stock": 20,
+      "category": "Mantenimiento",
+      "thumbnails": []
+    },
+    {
+      "id": "uuid2",
+      "title": "Instalación de Windows 10",
+      "description": "Instalación de sistema operativo y configuración inicial.",
+      "code": "SVC002",
+      "price": 30000,
+      "status": true,
+      "stock": 15,
+      "category": "Instalación",
+      "thumbnails": []
+    }
+  ]
