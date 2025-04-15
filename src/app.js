@@ -9,6 +9,10 @@ app.use(express.json());
 app.use('/api/productos', productosRouter);
 app.use('/api/carritos', carritosRouter);
 
+app.get('/', (req, res) => {
+  res.send('Bienvenido a la API de productos y carritos de Juan Pablo Rivero');
+});
+
 app.listen(8080, () => {
   console.log('Servidor corriendo en el puerto 8080');
 });
