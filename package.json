@@ -1,25 +1,15 @@
 {
-  "name": "enrega-1",
+  "name": "entrega-1.1",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/spoolertech/JuanRivero-Clase75285.git"
-  },
-  "keywords": [],
-  "author": "",
+  "author": "Juan Rivero Clase 75285",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/spoolertech/JuanRivero-Clase75285/issues"
-  },
-  "homepage": "https://github.com/spoolertech/JuanRivero-Clase75285#readme",
+  "description": "",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^5.1.0"
   },
-  "type": "module",
-  "devDependencies": {},
-  "description": ""
+  "type": "module"
 }
